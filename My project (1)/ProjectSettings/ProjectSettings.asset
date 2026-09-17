@@ -152,6 +152,10 @@ PlayerSettings:
   preloadedAssets:
   - {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
   - {fileID: 0}
+  - {fileID: 11400000, guid: 9b54c6fe2053f964aadbfd2b451ecc99, type: 2}
+  - {fileID: 11400000, guid: d5425fb2525033448999c9951d39b09b, type: 2}
+  - {fileID: 2073952395735766964, guid: a12e630357682ab49a9c76baf3c29640, type: 2}
+  - {fileID: 8653994899220933050, guid: 190b4610c394fec419a7c0b73349f0f1, type: 2}
   metroInputSource: 0
   wsaTransparentSwapchain: 0
   xboxOneDisableKinectGpuReservation: 1
@@ -265,7 +269,7 @@ PlayerSettings:
   clonedFromGUID: 3c72c65a16f0acb438eed22b8b16c24a
   templatePackageId: com.unity.template.urp-blank@17.0.14
   templateDefaultScene: Assets/Scenes/SampleScene.unity
-  useCustomMainManifest: 0
+  useCustomMainManifest: 1
   useCustomLauncherManifest: 0
   useCustomMainGradleTemplate: 0
   useCustomLauncherGradleManifest: 0
