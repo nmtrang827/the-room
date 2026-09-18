@@ -24,46 +24,6 @@ The project explores VR interaction, object spawning, particle effects, spatial 
 - Object shooting with controller-directed velocity
 - Quit interaction through an XR controller
 
-## Technologies
-
-- Unity 6000.5.6f1
-- C#
-- Unity Input System 1.20.0
-- XR Interaction Toolkit 3.5.1
-- Meta XR Core SDK 205.0.0
-- OpenXR
-- Meta Quest 2
-- Shader Graph
-
-## Project Structure
-
-The main Unity project is contained in the project directory.
-
-Scripts are used for:
-- Object spawning
-- Projectile motion
-- Object interactions
-- Lighting
-- Camera and teleportation
-- Procedural object motion
-
-## Running the Project
-
-### Requirements
-
-- Unity 6000.5.6f1
-- Meta Quest 2
-- USB connection between the computer and headset
-- Android/OpenXR support configured in Unity
-
-### Build and Run
-
-1. Open the project in Unity 6000.5.6f1.
-2. Open the project scene.
-3. Connect the Meta Quest 2.
-4. Build the project for Android.
-5. Install and launch the generated APK on the headset.
-
 ## Controls
 
 ### VR Controller
@@ -75,7 +35,3 @@ Scripts are used for:
 
 Keyboard inputs are also configured for testing some interactions in the Unity Editor.
 
-
-CS 417 - Game Development  
-University of Illinois Urbana-Champaign  
-Fall 2026
