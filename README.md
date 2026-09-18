@@ -1,8 +1,8 @@
 # The Room
 
-A VR room project built in Unity for CS 417: Game Development at the University of Illinois Urbana-Champaign.
+A VR room project built in Unity for CS 417 at UIUC
 
-The project explores VR interaction, object spawning, particle effects, spatial audio, procedural motion, materials, shaders, camera tracking, and teleportation using the Meta Quest 2.
+The project explores VR interaction, object spawning, particle effects, spatial audio, procedural motion, materials, shaders, camera tracking, and teleportation.
 
 ## Features
 
